@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello World To New WEB APP using GIT/Azure & Devithub.com !"
+    return "Hello World To New WEB APP using GIT/Azurepipeline & Devithub.com !"
